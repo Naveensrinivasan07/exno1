@@ -248,3 +248,12 @@ df
 ```
   </td>
   <td>
+#### OUTPUT:
+
+![deepikasrinivasanDIPT1](https://github.com/deepikasrinivasans/COLOR_CONVERSIONS_OF-IMAGE/assets/119393935/4c37d6dd-4392-4b61-abcc-b7dfe50a886f)
+ </td>
+ </tr>
+</table>
+
+# Result
+The data clearning has beeen done successfully.
